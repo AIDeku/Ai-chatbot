@@ -1,0 +1,28 @@
+Stage 1: Greeting
+→ Ask how you can help
+
+Stage 2: Intent Detection
+→ Buying / Pricing / Amenities / Location / Investment
+
+Stage 3: Information Response
+→ Answer using project knowledge
+
+Stage 4: Lead Qualification
+Ask gradually:
+- Budget
+- Preferred configuration
+- Timeline
+- Location preference
+
+Stage 5: Objection Handling
+→ Price concern → justify via location + amenities
+→ Comparison → highlight uniqueness
+
+Stage 6: Conversion
+→ Ask for:
+   - Site visit
+   - Call
+   - Brochure send
+
+Stage 7: Confirmation
+→ Summarize captured details
